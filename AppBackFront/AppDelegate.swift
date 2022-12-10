@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  AppBackFront
 //
-//  Created by Caio Fabrini on 15/09/22.
+//  Created by Italo Rossy on 15/09/22.
 //
 
 import UIKit
